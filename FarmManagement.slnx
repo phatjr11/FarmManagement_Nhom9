@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FarmManagement.BUS/FarmManagement.BUS.csproj" Id="5e06c356-9e5d-437f-8722-da0bcb9ad8b6" />
+  <Project Path="FarmManagement.DAL/FarmManagement.DAL.csproj" Id="8a6f9a8c-f287-4b6d-a7a6-2315b2848e06" />
+  <Project Path="GUI/FarmManagement.GUI.csproj" Id="24763127-b720-489e-b1f1-fb9737e2c992" />
+</Solution>
